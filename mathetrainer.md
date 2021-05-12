@@ -7,5 +7,5 @@ Das Wasserfallmodell ist ein lineares Vorgehensmodell, das Entwicklungsprozesse 
 - Implementierung
 - Test
 - Betrieb
-    
+
 ![Organigramm](_media/org.png)
