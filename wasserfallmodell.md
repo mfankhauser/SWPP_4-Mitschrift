@@ -3,7 +3,7 @@
 ## Allgemeines
 Das **erste Modell** zur professionellen Erstellung von Software ist das Wasserfallmodell. Dieses Modell geht klar abgegrenzten Entwicklungsschritten aus. Ursprünglich handelt es sich um ein Modell ähnlich zum einem Wasserfall - die Schritte werden nacheinander abgearbeitet und zum Schluss wird ein Produkt zur Verfügung gestellt.
 
-![Wasserfallmodell] (_media/wass.png)
+![Organigramm](_media/wass.png)
 
 ### Die Phasen des Wasserfallmodells
 Im Wasserfallmodell reihen sich die einzelnen Phasen eines Entwicklungsprozesses in einer Kaskade aneinander. Jede Phase schließt mit einem Zwischenergebnis (Meilenstein) ab – beispielsweise mit einem Anforderungskatalog in Form eines Lastenhefts, mit der Spezifikation einer Software-Architektur oder mit einer Anwendung im Alpha oder Beta-Stadium.
