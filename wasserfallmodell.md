@@ -5,12 +5,6 @@ Das **erste Modell** zur professionellen Erstellung von Software ist das Wasserf
 
 ![Wasserfallmodell] (_media/wass.png)
 
-1. **Analyse:** Es  werden die Anforderungen an die Software erstellt. Dies bedeutet, dass auch **Lastenhefte** und **Pflichtenhefte** erstellt werden müssen.
-2. **Entwurf:** In diesem Bereich wird das Design der Software erstellt. Hierzu zählt die Erstellung von verschiedenen Diagrammen, usw. welche schließlich zur schnelleren Erstellung der Software führen.
-3. **Implementierung:** Hierbei handelt es sich um die Umsetzung der Software. Die Software wird in diesem Abschnitt vom Entwickler/der Entwicklerin erstellt.
-4. **Überprüfung:** In diesem Abschnitt wird die _Software_ getestet. Es finden Tests statt, die die Lauffähigkeit der Software überprüfen.
-5. **Wartung:** Dieser Bereich ist ein _langfristiger_ Abschnitt. Die Software wird längerfristig unterstützt und gewartet/angepasst. Auch die Inbetriebnahme beim Kunden wird in diesem Bereich zugerechnet.
-
 ### Die Phasen des Wasserfallmodells
 Im Wasserfallmodell reihen sich die einzelnen Phasen eines Entwicklungsprozesses in einer Kaskade aneinander. Jede Phase schließt mit einem Zwischenergebnis (Meilenstein) ab – beispielsweise mit einem Anforderungskatalog in Form eines Lastenhefts, mit der Spezifikation einer Software-Architektur oder mit einer Anwendung im Alpha oder Beta-Stadium.
 
