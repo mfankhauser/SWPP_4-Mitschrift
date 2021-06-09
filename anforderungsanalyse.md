@@ -51,3 +51,38 @@ Merkmale die Auswirkung auf die Kundenzufriedenheit haben:
 * Unerhebliche Merkmale (führen weder zu Zufriedenheit noch zu Unzufriedenheit)
 * Rückweisungsmerkmale (führen durch bloße Existenz zu Unzufriedenheit)
 
+
+### MoSCow-Methode
+
+![Organigramm](_media/mos.jpg)
+
+Die MoSCoW-Methode ist ein vierstufiges Verfahren der Priorisierung. Meist wird sie zur Kategorisierung von Anforderungen genutzt, grundsätzlich eignet sie sich bspw. auch zur Priorisierung von Zielen, Aktivitäten oder Änderungsanträgen. Als Erfinder der MoSCoW-Methode gilt Dai Clegg, der die Methode 1994 bei Oracle erstmals im Rahmen der sogenannten Dynamic Systems Development Method (DSDM) nutzte. Heute wird MoSCoW – auch als MoSCoW-Prinzip, -Analyse oder -Priorisierung bezeichnet.
+
+Die einzelnen, großgeschriebenen Buchstaben stehen für vier Kategorien:
+
+* **M = Must** (have)
+* **S = Should** (have)
+* **C = Could** (have)
+* **W = Won’t** (have)
+
+
+### Priorisierung
+
+![Organigramm](_media/p.png)
+
+Sie haben mehr Aufgaben, als Sie an einem Tag erledigen können. Sie haben mehr Anforderungen als Sie innerhalb einer Iteration realisieren können. Oder Sie haben verschiedene potentielle Projekte und benötigen eine Entscheidung, welches dieser Projekte Sie als erstes realisieren wollen. Es gibt viele Situationen, in den Menschen und Organisationen Reihenfolgen definieren müssen. Den Vorgang zur Bewertung von gleichartigen Elementen nach bewusst gewählten Kriterien mit dem Ziel, eine Rangordnung der Elemente zu erreichen, nennt sich Priorisierung.
+
+
+### Lastenheft
+
+![Organigramm](_media/l.jpg)
+
+Die DIN 69901-5 definiert ein Lastenheft als „vom Auftraggeber festgelegte Gesamtheit der Forderungen an die Lieferungen und Leistungen eines Auftragnehmers innerhalb eines Auftrages“. Es handelt sich also um ein Dokument des Auftraggebers mit den Ergebnissen der Anforderungsanalyse und damit um einen Wunschzettel, den ein Auftragnehmer realisieren soll. Idealerweise sollten die Formulierungen in einem Lastenheft so allgemein wie möglich und so einschränkend wie nötig formuliert werden, so dass Auftragnehmer Lösungen entwickeln können, ohne zu sehr in ihren Kompetenzen eingeschränkt zu werden.
+
+### Pflichtenheft
+
+![Organigramm](_media/pf.png)
+
+Das Pflichtenheft enthält das detaillierte Arbeitskonzept für die gesamte Umsetzung eines Projektes. Es basiert auf den Ausführungen, die der Auftraggeber im Lastenheft niedergeschrieben hat.
+
+Ähnlich wie das Lastenheft ist auch das Pflichtenheft eine große Hilfe bei umfangreichen Projekten, in denen es einen Auftragnehmer und einen Auftraggeber gibt. Erhält ein Auftragnehmer einen Auftrag, soll dieser möglichst genau die Anforderungen des Auftragsnehmers erfüllen. Gleichzeitig prüft der Auftragnehmer idealerweise im Vorfeld, in wie weit die Anforderungen des Auftraggebers umsetzbar sind. Dabei helfen sowohl das Lasten- als auch das Pflichtenheft. Aber was ist letzteres eigentlich? Und wie wird ein Pflichtenheft richtig erstellt?
